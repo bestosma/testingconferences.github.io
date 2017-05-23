@@ -25,6 +25,13 @@
   dates: "May 26-27, 2017"
   url: http://sqadays.com/en/index
   twitter: sqadays
+  
+ - name: Heisenbug 2017 Piter
+  location: Saint Petersburg, Russia
+  dates: "June 4, 2017"
+  url: https://heisenbug-piter.ru/en/
+  twitter: HeisenbugConf
+  status: Registration is open 
 
 - name: SauceCon 2017
   location: San Francisco, CA, USA
